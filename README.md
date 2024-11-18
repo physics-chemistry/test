@@ -11,4 +11,4 @@ This project currently only has an index.html page is placeholder html content.
 
 I want to do the **following** with this test project:
 - First git init
-- First git push and comit
+- First git push and commit
